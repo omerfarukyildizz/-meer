@@ -1,0 +1,6 @@
+@Pbk.WebApi_HostAddress = http://localhost:5153
+
+GET {{Pbk.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

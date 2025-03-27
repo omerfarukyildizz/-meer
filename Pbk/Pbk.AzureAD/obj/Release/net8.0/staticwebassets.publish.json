@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s2XQVP+vbDKt3EjuTi5ecyXNVF0WM/nHgDBhBWqyk+I=",
+  "Source": "Edp.WebApi.AzureAD",
+  "BasePath": "_content/Edp.WebApi.AzureAD",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

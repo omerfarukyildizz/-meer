@@ -1,0 +1,14 @@
+C:\Source\Barsis\Edp\Edp.Entities\bin\Debug\net8.0\Edp.Entities.deps.json
+C:\Source\Barsis\Edp\Edp.Entities\bin\Debug\net8.0\Edp.Entities.runtimeconfig.json
+C:\Source\Barsis\Edp\Edp.Entities\bin\Debug\net8.0\Edp.Entities.dll
+C:\Source\Barsis\Edp\Edp.Entities\bin\Debug\net8.0\Edp.Entities.pdb
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.csproj.AssemblyReference.cache
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.AssemblyInfoInputs.cache
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.AssemblyInfo.cs
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.csproj.CoreCompileInputs.cache
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.dll
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\refint\Edp.Entities.dll
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.pdb
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\Edp.Entities.genruntimeconfig.cache
+C:\Source\Barsis\Edp\Edp.Entities\obj\Debug\net8.0\ref\Edp.Entities.dll

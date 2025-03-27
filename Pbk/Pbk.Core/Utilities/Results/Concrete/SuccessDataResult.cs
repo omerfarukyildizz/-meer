@@ -1,0 +1,29 @@
+﻿using Core.Utilities.Results.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Core.Utilities.Results.Concrete
+{
+    
+    /// İşlem başarılı olduğunda veri sonucunu döndüren yapıyı oluşturduk.
+
+ 
+    public class SuccessDataResult<T> : DataResult<T>
+    {
+        //public SuccessDataResult(T data) : base(data, true)
+        //{
+        //}
+
+        public SuccessDataResult(T data, string message) : base(data, true, message)
+        {
+        }
+
+        //public SuccessDataResult() : base(default, true)
+        //{
+
+        //}
+    }
+}

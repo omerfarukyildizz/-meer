@@ -1,0 +1,14 @@
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\bin\Debug\net8.0\Pbk.Entities.deps.json
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\bin\Debug\net8.0\Pbk.Entities.runtimeconfig.json
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\bin\Debug\net8.0\Pbk.Entities.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\bin\Debug\net8.0\Pbk.Entities.pdb
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.csproj.AssemblyReference.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.AssemblyInfoInputs.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.AssemblyInfo.cs
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\refint\Pbk.Entities.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.pdb
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\Pbk.Entities.genruntimeconfig.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Entities\obj\Debug\net8.0\ref\Pbk.Entities.dll

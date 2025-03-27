@@ -1,0 +1,6 @@
+@Edp.WebApi.AzureAD_HostAddress = http://localhost:5258
+
+GET {{Edp.WebApi.AzureAD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

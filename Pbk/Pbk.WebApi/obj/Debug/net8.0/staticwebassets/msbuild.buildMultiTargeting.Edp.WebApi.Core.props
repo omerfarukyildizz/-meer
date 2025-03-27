@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Edp.WebApi.Core.props" />
+</Project>

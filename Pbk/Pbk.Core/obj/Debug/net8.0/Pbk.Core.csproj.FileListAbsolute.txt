@@ -1,0 +1,17 @@
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Core.deps.json
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Core.runtimeconfig.json
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Core.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Core.pdb
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Entities.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\bin\Debug\net8.0\Pbk.Entities.pdb
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.csproj.AssemblyReference.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.AssemblyInfoInputs.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.AssemblyInfo.cs
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.csproj.CoreCompileInputs.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.csproj.Up2Date
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\refint\Pbk.Core.dll
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.pdb
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\Pbk.Core.genruntimeconfig.cache
+C:\Users\fethullah.artuc\Desktop\Pbk\Pbk.Core\obj\Debug\net8.0\ref\Pbk.Core.dll

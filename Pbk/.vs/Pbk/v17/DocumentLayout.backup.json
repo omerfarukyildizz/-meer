@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|Pbk.DataAccess\\Pbk.DataAccess.csproj|c:\\users\\oy126\\onedrive\\masa\u00FCst\u00FC\\pbk\\pbk.dataaccess\\context\\contextbarsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|Pbk.DataAccess\\Pbk.DataAccess.csproj|solutionrelative:pbk.dataaccess\\context\\contextbarsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|Pbk.DataAccess\\Pbk.DataAccess.csproj|c:\\users\\oy126\\onedrive\\masa\u00FCst\u00FC\\pbk\\pbk.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|Pbk.DataAccess\\Pbk.DataAccess.csproj|solutionrelative:pbk.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|Pbk.WebApi\\Pbk.WebApi.Core.csproj|c:\\users\\oy126\\onedrive\\masa\u00FCst\u00FC\\pbk\\pbk.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|Pbk.WebApi\\Pbk.WebApi.Core.csproj|solutionrelative:pbk.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|Pbk.WebApi\\Pbk.WebApi.Core.csproj|c:\\users\\oy126\\onedrive\\masa\u00FCst\u00FC\\pbk\\pbk.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|Pbk.WebApi\\Pbk.WebApi.Core.csproj|solutionrelative:pbk.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContextBarsan.cs",
+              "DocumentMoniker": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.DataAccess\\Context\\ContextBarsan.cs",
+              "RelativeDocumentMoniker": "Pbk.DataAccess\\Context\\ContextBarsan.cs",
+              "ToolTip": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.DataAccess\\Context\\ContextBarsan.cs",
+              "RelativeToolTip": "Pbk.DataAccess\\Context\\ContextBarsan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:42:42.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Pbk.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Pbk.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:42:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Pbk.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.WebApi\\Program.cs",
+              "RelativeToolTip": "Pbk.WebApi\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:42:00.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Pbk.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\oy126\\OneDrive\\Masa\u00FCst\u00FC\\Pbk\\Pbk.WebApi\\appsettings.json",
+              "RelativeToolTip": "Pbk.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:41:54.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

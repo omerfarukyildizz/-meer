@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pbk.WebApi.Core.props" />
+</Project>

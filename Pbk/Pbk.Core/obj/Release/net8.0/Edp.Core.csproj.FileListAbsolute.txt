@@ -1,0 +1,17 @@
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Core.deps.json
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Core.runtimeconfig.json
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Core.dll
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Core.pdb
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Entities.dll
+C:\Source\Barsis\Edp\Edp.Core\bin\Release\net8.0\Edp.Entities.pdb
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.csproj.AssemblyReference.cache
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.AssemblyInfoInputs.cache
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.AssemblyInfo.cs
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.csproj.CoreCompileInputs.cache
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.csproj.Up2Date
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.dll
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\refint\Edp.Core.dll
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.pdb
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\Edp.Core.genruntimeconfig.cache
+C:\Source\Barsis\Edp\Edp.Core\obj\Release\net8.0\ref\Edp.Core.dll

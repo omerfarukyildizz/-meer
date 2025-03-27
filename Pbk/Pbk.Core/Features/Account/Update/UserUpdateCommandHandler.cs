@@ -1,0 +1,69 @@
+﻿using AutoMapper;
+using Pbk.Core.Features.User;
+using Pbk.Core.Features.Response;
+using Pbk.Core.Utilities.IResults;
+using Pbk.Entities.Repositories;
+using MediatR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Pbk.Entities.Models;
+using Microsoft.AspNetCore.Identity;
+using Pbk.Core.Features.Users.Manager;
+using Pbk.Core.Features.Users;
+namespace Pbk.Core.Features.Account.Update
+{
+ 
+    internal sealed class UserUpdateCommandHandler : IRequestHandler<UserUpdateCommand, APIResponse>
+    {
+        private readonly ITranslate _tanslate;
+        private readonly IMapper _mapper;
+        private readonly IUserRepository _userRepository;
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IUserManager _userManager;
+
+
+        public UserUpdateCommandHandler(IUserManager userManager, ITranslate tanslate, IMapper mapper, IUserRepository userRepository, IUnitOfWork unitOfWork)
+        {
+            _tanslate = tanslate;
+            _userRepository = userRepository;
+            _mapper = mapper;
+            _userManager = userManager;
+            _unitOfWork = unitOfWork;
+        }
+
+        public async Task<APIResponse> Handle(UserUpdateCommand request, CancellationToken cancellationToken)
+        {
+            try
+            {
+                var UserId = _userManager.UserInfo().UserId;
+
+               Entities.Models.User data = await _userRepository.GetByIdAsync(w=> w.UserId == request.UserId, cancellationToken);
+                   
+                if(data == null)
+                {
+                    return new(status: OperationResult.Error, messages: "Kayıt Bulunamadı.", null);
+                }
+
+                  data.UpdUser = UserId;
+                  data.UpdTime = DateTime.Now;
+                _mapper.Map(request, data);
+                 _userRepository.Update(data);
+                await _unitOfWork.SaveChangesAsync(cancellationToken);
+
+                return new(status: OperationResult.Success, messages: "", data);
+            }
+            catch (Exception ex)
+            {
+                return new(status: OperationResult.Error, messages: ex.Message, null);
+            }
+
+        }
+
+    }
+
+
+
+}
